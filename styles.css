@@ -25,12 +25,10 @@ font-family: 'Roboto Condensed', sans-serif;
 .content-a {
     width:100%;
     height:100%;
-    overflow:hidden;
-}
-.fullscreen.overflow,
-.fullscreen.overflow .content-a {
     height:auto;
     min-height:100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* content centering styles */
