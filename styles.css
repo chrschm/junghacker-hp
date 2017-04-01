@@ -1,4 +1,8 @@
 /* background setup */
+h3 a, h3 a:active, h3 a:visited {
+	color: white;
+}
+
 .background {
     background-repeat:no-repeat;
     /* custom background-position */
